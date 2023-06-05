@@ -1,0 +1,24 @@
+{
+	"cSpell.words": [
+		"activex",
+		"camelcase",
+		"demi",
+		"esbuild",
+		"esno",
+		"filesize",
+		"iife",
+		"onwarn",
+		"samesite",
+		"saqqdy",
+		"tscjs",
+		"tsnd",
+		"typedoc",
+		"unpub",
+		"unpublish",
+		"vuepress",
+		"weixin",
+		"wxpay"
+	],
+	"typescript.tsdk": "node_modules/typescript/lib",
+	"npm.packageManager": "pnpm"
+}
