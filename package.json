@@ -65,7 +65,7 @@
 		"@types/activex-excel": "^14.0.6",
 		"@types/babel__core": "^7.20.1",
 		"@types/jest": "^29.5.2",
-		"@types/node": "^20.2.5",
+		"@types/node": "^20.4.2",
 		"chalk": "^5.2.0",
 		"core-js": "^3.30.2",
 		"coveralls": "^3.1.1",
