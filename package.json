@@ -46,7 +46,7 @@
 		"pub.bak": "git add . && git commit -m $npm_package_version && git pull && git push"
 	},
 	"dependencies": {
-		"js-cool": "^4.5.0",
+		"js-cool": "^5.3.0",
 		"vue-demi": "^0.14.5"
 	},
 	"devDependencies": {
